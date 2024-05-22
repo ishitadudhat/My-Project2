@@ -22,3 +22,12 @@ button{
     top: 10%;
     border-radius: 50%;
 }
+div{
+    width: 50%;
+    padding: 10px;
+    border: none;
+    background-color: lightpink;
+    color: brown;
+    margin: 0 auto;
+    border-radius: 10px;
+}

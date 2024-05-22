@@ -16,3 +16,9 @@ button{
     color: white;
     cursor: pointer;
 }
+#img1{
+    width: 50%;
+    height: 500px;
+    top: 10%;
+    border-radius: 50%;
+}
